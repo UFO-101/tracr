@@ -1,3 +1,7 @@
+This is a fork of Tracr which makes 0 changes. I made it so that I could publish tracr
+to PyPI (under the name tracr-pypi) as the authors did not do this. I am not the author
+of Tracr.
+
 # Tracr: TRAnsformer Compiler for RASP.
 
 Tracr is a compiler for converting RASP programs

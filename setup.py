@@ -17,7 +17,7 @@
 import setuptools
 
 setuptools.setup(
-    name="tracr",
+    name="tracr-pypi",
     version="1.0.0",
     url="https://github.com/deepmind/tracr",
     author="DeepMind LMI team",
